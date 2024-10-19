@@ -1,1 +1,1 @@
-Live at https://weather-app-byrene.netlify.app/
+Live at https://sanchari14.github.io/Weather/
